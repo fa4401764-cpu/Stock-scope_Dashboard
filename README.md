@@ -57,5 +57,4 @@ A dynamic and interactive stock market dashboard built in Power BI to analyze li
 6- Screen short / Demos                                                                  
  ![DashbordPreview](https://github.com/fa4401764-cpu/Stock-scope_Dashboard/blob/main/Stock%20price%20%20Analysis.png)
 
- ![DashbordPreview](https://github.com/fa4401764-cpu/Stock-scope_Dashboard/blob/main/Historical%20stock%20prices.png)
-   
+
